@@ -1,1 +1,2 @@
-#  PCA Exercises from the Process Improvement Using Data by Kevin Dunn
+#  PCA Exercises   
+from the Process Improvement Using Data by Kevin Dunn
